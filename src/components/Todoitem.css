@@ -1,0 +1,18 @@
+.todo-item {
+  list-style-type: none;
+  padding: 10px 15px;
+  border-top: 1px solid #678c89;
+}
+.todo-item input {
+  margin-right: 15px;
+}
+.todo-item .btn-style {
+  background: #d35e0f;
+  color: #fff;
+  border: 1px solid #d35e0f;
+  padding: 3px 7px;
+  border-radius: 50%;
+  cursor: pointer;
+  float: right;
+  outline: none;
+}/*# sourceMappingURL=Todoitem.css.map */
